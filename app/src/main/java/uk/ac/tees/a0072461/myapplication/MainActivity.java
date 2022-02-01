@@ -11,5 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //this is a change
+        //http://schemas.android.com/apk/res/android
+        //http://schemas.android.com/apk/res-auto
+        //http://schemas.android.com/tools
     }
 }
