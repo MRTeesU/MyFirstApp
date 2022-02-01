@@ -10,9 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //this is a change
-        //http://schemas.android.com/apk/res/android
-        //http://schemas.android.com/apk/res-auto
-        //http://schemas.android.com/tools
+        //pretend I added some functionality
     }
 }
